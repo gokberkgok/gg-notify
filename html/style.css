@@ -1,0 +1,52 @@
+.notify{
+  position: fixed;
+  left: 45%;
+  bottom: 150px;
+  width: 270px;
+  display: none;
+}
+.notifyMain{
+  float: center;
+  padding: 10px;
+  font-size: 34px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Korolev Heavy', sans-serif;
+  font-weight: bold;
+}
+
+.progresbar{
+  float: center;
+  padding: 8px;
+  font-size: 30px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Korolev Heavy', sans-serif;
+  font-weight: 600;
+}
+
+.lowerText {
+  color: #fafafa;
+  padding: 8px;
+  font-size: 15px;
+  margin-top: 4px;
+  text-align: center;
+  font-family: 'LG_GSM_V6.06', sans-serif;
+  word-wrap: break-word;
+  font-weight: 500;
+  line-height: 20px;
+}
+#myProgress {
+  width: 100%;
+  background-color: rgba(175, 170, 170, 0.548);
+  border-radius:10px;
+  box-shadow: 0 4px 8px 0 rgba(228, 224, 224, 0.2), 0 6px 10px 0 rgba(230, 223, 223, 0.19);
+}
+#myBar {
+  width: 0%;
+  height: 5px;
+  box-shadow: 0 4px 8px 0 rgba(228, 224, 224, 0.2), 0 6px 20px 0 rgba(230, 223, 223, 0.19);
+  border-radius:10px;
+  background-color: white;
+}
+
