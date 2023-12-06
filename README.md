@@ -1,6 +1,11 @@
 ![notify](https://github.com/gokberkgok/gg-notify/assets/67126609/cb692c17-2fe6-4b4f-8f6f-7f1805892c12)
 
-Discord : Gökberk#3151
+STANDALONE FIVEM NOTIFY SCRIPT
+
+Discord : gokberkk_
+
+
+**USAGE**
 
 type - info , success , error
 
