@@ -1,4 +1,4 @@
-//Gökberk#3151
+//gokberkk_
 document.addEventListener('DOMContentLoaded', () => {
   const notifyDiv = document.querySelector('.notify');
   const progressBar = document.getElementById('myBar');
